@@ -248,6 +248,26 @@ http://localhost:8080
 
 ---
 
+## 📊 Real-Time Weather Dashboard
+
+The project includes an interactive Streamlit dashboard for monitoring weather conditions across SkyLogix operational cities.
+
+### Dashboard Features
+- **Real-time weather monitoring** for all operational cities
+- **Temperature trends** visualization over time
+- **Weather alerts** for extreme conditions affecting logistics
+- **Analytics integration** with sample SQL queries
+- **Automatic refresh** every 5 minutes
+
+### Access the Dashboard
+1. Ensure the pipeline is running (MongoDB and PostgreSQL are active)
+2. Install dashboard dependencies:
+   ```bash
+   pip install streamlit pandas plotly psycopg2-binary python-dotenv
+
+<img width="1887" height="903" alt="image" src="https://github.com/user-attachments/assets/bc33b347-9b0f-42ed-bad9-1eeab90edeac" />
+
+
 ## 🧾 Deliverables
 
 * Fully working ETL pipeline
@@ -260,7 +280,7 @@ http://localhost:8080
 
 ## 👤 Author
 
-**Cheikh Bou Mohamed Kanté**
+**Cheikh Bou Mohamed Kante**
 
 ---
 
