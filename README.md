@@ -265,6 +265,7 @@ The project includes an interactive Streamlit dashboard for monitoring weather c
    ```bash
    pip install streamlit pandas plotly psycopg2-binary python-dotenv
 
+<img width="1887" height="903" alt="image" src="https://github.com/user-attachments/assets/bc33b347-9b0f-42ed-bad9-1eeab90edeac" />
 
 
 ## 🧾 Deliverables
