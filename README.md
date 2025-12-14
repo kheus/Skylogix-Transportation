@@ -192,7 +192,7 @@ Create a `.env` file using `.env.example`:
 ```env
 OPENWEATHER_API_KEY=your_api_key
 MONGO_URI=mongodb://localhost:27017
-POSTGRES_URI=postgresql://user:password@localhost/skylogix_db
+POSTGRES_URI=postgresql://user:password@localhost/Database-name
 ```
 
 ---
@@ -261,7 +261,6 @@ http://localhost:8080
 ## 👤 Author
 
 **Cheikh Bou Mohamed Kanté**
-Data Engineering & Environmental Economics
 
 ---
 
