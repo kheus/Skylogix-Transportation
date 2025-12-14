@@ -261,7 +261,6 @@ http://localhost:8080
 ## 👤 Author
 
 **Cheikh Bou Mohamed Kanté**
-Data Engineering & Environmental Economics
 
 ---
 
